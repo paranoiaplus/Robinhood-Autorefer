@@ -5,7 +5,7 @@ Want to quickly get off the Robinhood waitlist? This script uses the gmail "+ tr
 
 #Instructions
 
-1. Install the mechanize python library
+1. Install the [mechanize python library](http://wwwsearch.sourceforge.net/mechanize/download.html)
 2. Put your google username (your gmail account without the "@gmail.com" part) in the `googleUsername` variable of `config.py`
 3. Paste your referal link into the `referalURL` variable of `config.py`
 4. Run `main.py`
